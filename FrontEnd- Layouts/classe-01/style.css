@@ -1,0 +1,151 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: #F2F2F2;
+    padding: 160px 400px;
+}
+.card-branco{
+    justify-content: center;
+    text-align: left;
+    align-items: center;
+    max-width: 635px;
+    background-color: #ffffff;
+    padding: 40px;
+}
+.card-branco h1{
+font-family: 'Karla', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: -0.3px;
+color: #2AB3B1;
+margin-bottom: 24px;
+}
+.card-branco span{    
+font-family: 'Karla', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: -0.225px;
+color: #C0DF33;
+display: block;
+margin-bottom: 11px;
+}
+.card-branco p{
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+    color: #9AA7BE;
+    max-width: 155px;
+    display: inline;
+   
+}
+.container{
+    display: flex;
+}
+.card-btn{
+    justify-content: center;
+    text-align: left;
+    align-items: center;
+    max-width: 310px;
+    background: #2AB3B1;
+    padding: 40px;
+}
+.card-btn h2{
+    font-family: 'Karla', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: -0.225px;
+color: #FFFFFF;
+margin-bottom: 18px;
+}
+.card-btn h1{
+    font-family: 'Karla', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+letter-spacing: -0.4px;
+color: #FFFFFF;
+display: inline;
+margin-bottom: 4px;
+}
+.card-btn span {
+    font-family: 'Karla', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: -0.2px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+}
+.card-btn p{
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    margin-bottom: 26px;
+}
+.btn{
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #C0DF33;
+    max-width: 240px;
+    padding: 15px 80px;
+    text-decoration: none ;
+}
+.card-text{
+    background-color: #4abfbd;
+    justify-content: center;
+    text-align: left;
+    align-items: center;
+    max-width: 311px;
+    padding: 40px;
+    
+}
+.card-text h2{
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.225px;
+    color: #FFFFFF;
+    margin-bottom:18px ;
+}
+.card-text p{
+    max-width: 238px;
+    font-family: 'Karla', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: -0.175px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.75;
+}
